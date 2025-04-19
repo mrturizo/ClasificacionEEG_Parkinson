@@ -1,0 +1,19 @@
+Fold,Accuracy,Precision,Recall,F1-Score,Timestamp,Modelo,Tipo_preprocesamiento,Metodo_validacion
+0,1.0,1.0,1.0,1.0,20250419_211927,CNN0,Z-Score (sin filtro) - Ventanas de 20 segundos,K-fold_CV
+1,1.0,1.0,1.0,1.0,20250419_211927,CNN0,Z-Score (sin filtro) - Ventanas de 20 segundos,K-fold_CV
+2,1.0,1.0,1.0,1.0,20250419_211927,CNN0,Z-Score (sin filtro) - Ventanas de 20 segundos,K-fold_CV
+3,1.0,1.0,1.0,1.0,20250419_211927,CNN0,Z-Score (sin filtro) - Ventanas de 20 segundos,K-fold_CV
+4,1.0,1.0,1.0,1.0,20250419_211927,CNN0,Z-Score (sin filtro) - Ventanas de 20 segundos,K-fold_CV
+5,1.0,1.0,1.0,1.0,20250419_211927,CNN0,Z-Score (sin filtro) - Ventanas de 20 segundos,K-fold_CV
+0,0.8246458172798157,0.9555555555555556,0.5680459770114943,0.6845469872825496,20250419_225334,CNN0,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV
+1,1.0,1.0,1.0,1.0,20250419_225334,CNN0,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV
+2,0.7931034564971924,0.7777777777777778,0.4827586206896552,0.5957446808510638,20250419_225334,CNN0,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV
+3,0.7471264600753784,1.0,0.4482758620689655,0.6190476190476191,20250419_225334,CNN0,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV
+4,0.8620689511299133,1.0,0.6333333333333333,0.7755102040816326,20250419_225334,CNN0,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV
+5,0.7209302186965942,1.0,0.2758620689655172,0.4324324324324324,20250419_225334,CNN0,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV
+0,0.8222667694091796,0.938095238095238,0.635632183908046,0.6933632984429146,20250419_224212,CNN1,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV
+1,0.8620689511299133,1.0,0.5862068965517241,0.7391304347826086,20250419_224212,CNN1,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV
+2,0.8965517282485962,0.8571428571428571,0.8275862068965517,0.8421052631578947,20250419_224212,CNN1,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV
+3,0.7241379022598267,0.8333333333333334,0.8620689655172413,0.847457627118644,20250419_224212,CNN1,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV
+4,0.9425287246704102,1.0,0.8333333333333334,0.9090909090909092,20250419_224212,CNN1,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV
+5,0.6860465407371521,1.0,0.0689655172413793,0.1290322580645161,20250419_224212,CNN1,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV
