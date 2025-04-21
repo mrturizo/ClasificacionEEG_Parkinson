@@ -1,0 +1,2 @@
+Fold,Accuracy,Precision,Recall,F1-Score,Timestamp,Modelo,Tipo_preprocesamiento,Metodo_validacion,batch_size,epochs,lr,opt
+0,0.5806451612903226,0.4193548387096774,0.4193548387096774,0.4193548387096774,20250421_035457,DNN,Extracción de vectores de potencia,LOOCV,32,60,0.001,adam
