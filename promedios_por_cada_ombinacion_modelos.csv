@@ -1,2 +1,3 @@
 Fold,Accuracy,Precision,Recall,F1-Score,Timestamp,Modelo,Tipo_preprocesamiento,Metodo_validacion,batch_size,epochs,lr,opt
+0,0.7610564585115485,0.8124955245255997,0.5865914786967419,0.6088774419821794,20250421_051818,CNN0,MinMax Scaler (sin filtro) - Ventanas de 20 segundos,Nested_CV,128,30,0.001,adam
 0,0.5806451612903226,0.4193548387096774,0.4193548387096774,0.4193548387096774,20250421_035457,DNN,Extracción de vectores de potencia,LOOCV,32,60,0.001,adam
