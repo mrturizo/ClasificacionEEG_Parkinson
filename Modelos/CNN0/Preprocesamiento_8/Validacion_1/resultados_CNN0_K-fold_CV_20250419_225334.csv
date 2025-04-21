@@ -1,7 +1,0 @@
-Fold,Accuracy,Precision,Recall,F1-Score,Timestamp,Modelo,Tipo_preprocesamiento,Metodo_validacion
-0,0.8246458172798157,0.9555555555555555,0.5680459770114943,0.6845469872825496,20250419_225334,CNN0,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV
-1,1.0,1.0,1.0,1.0,20250419_225334,CNN0,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV
-2,0.7931034564971924,0.7777777777777778,0.4827586206896552,0.5957446808510638,20250419_225334,CNN0,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV
-3,0.7471264600753784,1.0,0.4482758620689655,0.6190476190476191,20250419_225334,CNN0,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV
-4,0.8620689511299133,1.0,0.6333333333333333,0.7755102040816326,20250419_225334,CNN0,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV
-5,0.7209302186965942,1.0,0.27586206896551724,0.43243243243243246,20250419_225334,CNN0,MinMax Scaler + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV

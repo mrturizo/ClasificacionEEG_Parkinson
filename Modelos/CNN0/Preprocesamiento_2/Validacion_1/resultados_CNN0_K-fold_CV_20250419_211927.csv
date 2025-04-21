@@ -1,7 +1,0 @@
-Fold,Accuracy,Precision,Recall,F1-Score,Timestamp,Modelo,Tipo_preprocesamiento,Metodo_validacion
-0,1.0,1.0,1.0,1.0,20250419_211927,CNN0,Z-Score (sin filtro) - Ventanas de 20 segundos,K-fold_CV
-1,1.0,1.0,1.0,1.0,20250419_211927,CNN0,Z-Score (sin filtro) - Ventanas de 20 segundos,K-fold_CV
-2,1.0,1.0,1.0,1.0,20250419_211927,CNN0,Z-Score (sin filtro) - Ventanas de 20 segundos,K-fold_CV
-3,1.0,1.0,1.0,1.0,20250419_211927,CNN0,Z-Score (sin filtro) - Ventanas de 20 segundos,K-fold_CV
-4,1.0,1.0,1.0,1.0,20250419_211927,CNN0,Z-Score (sin filtro) - Ventanas de 20 segundos,K-fold_CV
-5,1.0,1.0,1.0,1.0,20250419_211927,CNN0,Z-Score (sin filtro) - Ventanas de 20 segundos,K-fold_CV
