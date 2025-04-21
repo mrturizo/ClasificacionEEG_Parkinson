@@ -17,3 +17,9 @@ https://semilleroanaliticauao.notion.site/Proyecto-Clasificaci-n-de-Enfermedad-d
 
 ## Presentación
 (Adjuntar presentación detro del repositorio)
+
+## Trabajo Futuro
+- PCA
+- Interpretabilidad (SHAP)
+- Transfer Learning
+- Transfer Learning + Interretabilidad
