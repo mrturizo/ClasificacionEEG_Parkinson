@@ -1,4 +1,6 @@
 # ClasificacionEEG_Parkinson
+## Pendiente
+Añadir metricas de machine learnind
 
 ## Dashboard PoweBI
 https://app.powerbi.com/view?r=eyJrIjoiYTFkNGNiYmYtZjcwNS00NzZmLTk0YzktZDlhZmZlZGIyMGEwIiwidCI6IjY5M2NiZWEwLTRlZjktNDI1NC04OTc3LTc2ZTA1Y2I1ZjU1NiIsImMiOjR9
