@@ -1,7 +1,0 @@
-Fold,Accuracy,Precision,Recall,F1-Score,Timestamp,Modelo,Tipo_preprocesamiento,Metodo_validacion,batch_size,epochs,lr,opt
-0,0.5476190476190476,0.6142857142857142,0.8666666666666666,0.6454545454545454,20250422_185703,DNN,Características temporales y espectrales (señal filtrada con notch),Nested_CV,128,30,0.001,adam
-1,0.5714285714285714,0.5714285714285714,1.0,0.7272727272727273,20250422_185703,DNN,Características temporales y espectrales (señal filtrada con notch),Nested_CV,128,30,0.001,adam
-2,0.5,0.5,1.0,0.6666666666666666,20250422_185703,DNN,Características temporales y espectrales (señal filtrada con notch),Nested_CV,128,30,0.001,adam
-3,0.5,0.5,1.0,0.6666666666666666,20250422_185703,DNN,Características temporales y espectrales (señal filtrada con notch),Nested_CV,128,30,0.001,adam
-4,0.5,0.5,1.0,0.6666666666666666,20250422_185703,DNN,Características temporales y espectrales (señal filtrada con notch),Nested_CV,128,30,0.001,adam
-5,0.6666666666666666,1.0,0.3333333333333333,0.5,20250422_185703,DNN,Características temporales y espectrales (señal filtrada con notch),Nested_CV,128,30,0.001,adam
