@@ -11,6 +11,38 @@ Fold,Accuracy,Precision,Recall,F1-Score,Timestamp,Modelo,Tipo_preprocesamiento,M
 3,0.6339285969734192,0.6226415094339622,0.5892857142857143,0.6055045871559633,20250421_065355,RNN1,z-Score + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV,128,30,0.001,adam
 4,0.6517857313156128,0.6153846153846154,0.7017543859649122,0.6557377049180327,20250421_065355,RNN1,z-Score + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV,128,30,0.001,adam
 5,0.7232142686843872,0.74,0.6491228070175439,0.6915887850467289,20250421_065355,RNN1,z-Score + filtro notch 60 Hz - Ventanas de 20 segundos,K-fold_CV,128,30,0.001,adam
+0,0.6774193548387096,0.5161290322580645,0.5161290322580645,0.5161290322580645,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+1,1.0,0.0,0.0,0.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+2,1.0,0.0,0.0,0.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+3,0.0,0.0,0.0,0.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+4,0.0,0.0,0.0,0.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+5,0.0,0.0,0.0,0.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+6,1.0,0.0,0.0,0.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+7,1.0,0.0,0.0,0.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+8,0.0,0.0,0.0,0.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+9,0.0,0.0,0.0,0.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+10,1.0,0.0,0.0,0.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+11,0.0,0.0,0.0,0.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+12,0.0,0.0,0.0,0.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+13,0.0,0.0,0.0,0.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+14,1.0,0.0,0.0,0.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+15,0.0,0.0,0.0,0.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+16,1.0,1.0,1.0,1.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+17,1.0,1.0,1.0,1.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+18,1.0,1.0,1.0,1.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+19,0.0,1.0,1.0,1.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+20,1.0,1.0,1.0,1.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+21,1.0,1.0,1.0,1.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+22,1.0,1.0,1.0,1.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+23,1.0,1.0,1.0,1.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+24,1.0,1.0,1.0,1.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+25,1.0,1.0,1.0,1.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+26,1.0,1.0,1.0,1.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+27,1.0,1.0,1.0,1.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+28,1.0,1.0,1.0,1.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+29,1.0,1.0,1.0,1.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+30,1.0,1.0,1.0,1.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
+31,1.0,1.0,1.0,1.0,20250424_002501,DNN,Potencia por bandas EEG (α–β) - Ventanas de 20 segundos,LOOCV,32,60,0.001,adam
 0,0.5806451612903226,0.4193548387096774,0.4193548387096774,0.4193548387096774,20250421_035457,DNN,Extracción de vectores de potencia,LOOCV,32,60,0.001,adam
 1,1.0,0.0,0.0,0.0,20250421_035457,DNN,Extracción de vectores de potencia,LOOCV,32,60,0.001,adam
 2,0.0,0.0,0.0,0.0,20250421_035457,DNN,Extracción de vectores de potencia,LOOCV,32,60,0.001,adam
