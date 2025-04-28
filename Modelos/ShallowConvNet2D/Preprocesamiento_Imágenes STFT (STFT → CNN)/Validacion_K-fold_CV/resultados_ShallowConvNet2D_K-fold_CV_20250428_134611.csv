@@ -1,0 +1,7 @@
+Fold,Accuracy,Precision,Recall,F1-Score,Timestamp,Modelo,Tipo_preprocesamiento,Metodo_validacion,batch_size,epochs,lr,opt
+0,0.4965517222881317,0.3,0.503448275862069,0.3683615819209039,20250428_134611,ShallowConvNet2D,Imágenes STFT (STFT → CNN),K-fold_CV,128,30,0.001,adam
+1,0.5,0.5,1.0,0.6666666666666666,20250428_134611,ShallowConvNet2D,Imágenes STFT (STFT → CNN),K-fold_CV,128,30,0.001,adam
+2,0.5,0.0,0.0,0.0,20250428_134611,ShallowConvNet2D,Imágenes STFT (STFT → CNN),K-fold_CV,128,30,0.001,adam
+3,0.5,0.5,0.5172413793103449,0.5084745762711864,20250428_134611,ShallowConvNet2D,Imágenes STFT (STFT → CNN),K-fold_CV,128,30,0.001,adam
+4,0.5,0.5,1.0,0.6666666666666666,20250428_134611,ShallowConvNet2D,Imágenes STFT (STFT → CNN),K-fold_CV,128,30,0.001,adam
+5,0.48275861144065857,0.0,0.0,0.0,20250428_134611,ShallowConvNet2D,Imágenes STFT (STFT → CNN),K-fold_CV,128,30,0.001,adam
